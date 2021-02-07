@@ -1,0 +1,7 @@
+numpy==1.18.1
+pandas==1.0.5
+Flask==1.1.1
+gunicorn==20.0.4
+tensorflow-cpu==2.1.0
+Pillow==5.2.0
+h5py==2.10.0
