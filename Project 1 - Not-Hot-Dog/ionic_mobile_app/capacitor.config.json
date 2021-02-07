@@ -1,0 +1,13 @@
+{
+  "appId": "io.epsilon.nothotdog",
+  "appName": "ionic_mobile_app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
