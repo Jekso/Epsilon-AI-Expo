@@ -28,8 +28,8 @@ This Repository has an implementation to Slicon Valley TV series scene about Jia
 3. Go to `web_service_app` folder and run terminal then execute `pip install -r requirements.txt`.
 4. Go to `model` folder and run terminal then execute `pip install -r requirements.txt`.
 5. Go to `ionic_mobile_app` folder and run terminal then execute `npm i`.
-6. Download `vgg_model.h5` and put it in `model` and `web_service_app` folder from [here]().
-7. Always be happy cuz you only live once so go fkin nuts ^_^.
+6. Download `vgg_model.h5` and put it in `model` and `web_service_app` folder from [here](https://drive.google.com/file/d/1Bx6b3pjR3klK8Rz9jhYGnKLFKBnoEp_b/view?usp=sharing).
+7. Always be happy cuz you only live once so go fucking nuts ^_^.
 
 
 ### Tutorial
